@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Header / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Budhpreay+Gautam;Full-Stack+Developer+%26+Tech+Enthusiast;Building+Modern+Web+Experiences;Automating+with+Playwright+%26+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Budh+Preay+Gautam;Full-Stack+Developer+%26+Tech+Enthusiast;Building+Modern+Web+Experiences;Automating+with+Playwright+%26+TypeScript" alt="Typing SVG" />
 
   <p align="center">
     <strong>Crafting responsive, high-performance web apps & scalable full-stack digital solutions.</strong>
