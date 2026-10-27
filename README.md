@@ -98,8 +98,7 @@ hobbies: Exploring new web tech, open source, fitness
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | 🎬 **[StreamBox](https://github.com/budhpreaygautam/streambox)** | Modern, ultra-responsive video and media streaming web application with dynamic playback. | `Next.js` `React 19` `Tailwind CSS v4` `Framer Motion` |
-| 🏋️ **[Gym Web App](https://github.com/budhpreaygautam/gym-webapp)** | Full-stack monorepo web app for fitness tracking, membership management, and gym schedules. | `Node.js` `Express` `Firebase` `Client/Server Monorepo` |
-| 🧪 **[Playwright Automation](https://github.com/budhpreaygautam/playwright-project)** | Comprehensive E2E and API testing framework with multi-browser coverage and automated test suites. | `Playwright` `TypeScript` `E2E Testing` `API Testing` |
+| 🏋️ **[PulseFit](https://github.com/budhpreaygautam/PulseFit)** | Full-stack gym membership platform -- client, server and a Playwright E2E suite, Docker-ready. | `TypeScript` `Playwright` `Docker` `Client/Server Monorepo` |
 | 🎨 **Interactive UI Lab** | Micro-frontend experiments including animated OTP inputs and dynamic SMTP contact forms. | `JavaScript` `CSS3 Animations` `SMTP` |
 
 <br/>
@@ -117,11 +116,6 @@ hobbies: Exploring new web tech, open source, fitness
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=budhpreaygautam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
-
-  <!-- GitHub Activity Graph -->
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=budhpreaygautam&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="95%" />
   </p>
 
 </div>
