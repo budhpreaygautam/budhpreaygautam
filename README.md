@@ -1,10 +1,10 @@
 <div align="center">
 
   <!-- Animated Header / Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Budh+Preay+Gautam;Full-Stack+Developer+%26+Tech+Enthusiast;Building+Modern+Web+Experiences;Automating+with+Playwright+%26+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Budh+Preay+Gautam;Full-Stack+Developer+%26+Test+Automation+Engineer;Building+Modern+Web+Experiences;Automating+with+Playwright+%26+TypeScript" alt="Typing SVG" />
 
   <p align="center">
-    <strong>Crafting responsive, high-performance web apps & scalable full-stack digital solutions.</strong>
+    <strong>Crafting high-performance full-stack apps -- and the automated test suites that prove they work.</strong>
   </p>
 
   <!-- Profile Views & Social Badges -->
@@ -31,17 +31,17 @@
 
 ```yaml
 name: Budhpreay Gautam
-role: Full-Stack Developer
-focus: Frontend Architecture, Modern Web Apps & Test Automation
+role: Full-Stack Developer & Test Automation Engineer
+focus: Full-Stack Web Apps, Playwright E2E/API Automation & Frontend Architecture
 current_learning: Advanced Cloud Deployments & Distributed Systems
-passions: Clean Code, Interactive UI/UX, Performance Optimization
+passions: Clean Code, Test Coverage, Performance Optimization
 hobbies: Exploring new web tech, open source, fitness
 ```
 
-- 🔭 **Currently working on:** **StreamBox** (Modern media & video streaming platform) & **Gym Web Monorepo**
-- 🌱 **Learning & Exploring:** Next.js 16/React 19 Server Components, Tailwind CSS v4, Advanced Playwright Automation
-- 💬 **Ask me about:** `React`, `Next.js`, `TypeScript`, `Node.js`, `Firebase`, `E2E Testing`
-- ⚡ **Fun Fact:** I love turning complex ideas into sleek, pixel-perfect user interfaces!
+- 🔭 **Currently working on:** **[PulseFit](https://github.com/budhpreaygautam/PulseFit)** -- a full-stack gym platform with its own Playwright E2E suite, [live](https://pulsefit.up.railway.app) -- and **[StreamBox](https://github.com/budhpreaygautam/streambox)**, a media streaming app
+- 🌱 **Learning & Exploring:** Next.js 16/React 19 Server Components, Tailwind CSS v4, Playwright visual regression & sharded test runs
+- 💬 **Ask me about:** `React`, `Next.js`, `TypeScript`, `Node.js`, `Playwright`, `E2E/API Test Automation`
+- ⚡ **Fun Fact:** I love turning complex ideas into sleek, pixel-perfect interfaces -- then writing the Playwright suite that proves they still work after the next change.
 
 <br/>
 
@@ -63,19 +63,18 @@ hobbies: Exploring new web tech, open source, fitness
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-#### ⚙️ Backend, Cloud & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
-</p>
-
 #### 🧪 Testing & Automation
 <p>
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/E2E_Testing-282C34?style=for-the-badge&logo=testinglibrary&logoColor=61DAFB" alt="E2E Testing" />
   <img src="https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
+</p>
+
+#### ⚙️ Backend, Cloud & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
 </p>
 
 #### 🧰 Tools & Platforms
@@ -97,9 +96,8 @@ hobbies: Exploring new web tech, open source, fitness
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| 🏋️ **[PulseFit](https://github.com/budhpreaygautam/PulseFit)** &nbsp;[🔴 Live](https://pulsefit.up.railway.app) | Full-stack gym membership platform -- client, server, and its own Playwright E2E suite. Versioned releases (v2.2.0+), Docker-ready. | `TypeScript` `Playwright` `Docker` `Client/Server Monorepo` |
 | 🎬 **[StreamBox](https://github.com/budhpreaygautam/streambox)** | Modern, ultra-responsive video and media streaming web application with dynamic playback. | `Next.js` `React 19` `Tailwind CSS v4` `Framer Motion` |
-| 🏋️ **[PulseFit](https://github.com/budhpreaygautam/PulseFit)** | Full-stack gym membership platform -- client, server and a Playwright E2E suite, Docker-ready. | `TypeScript` `Playwright` `Docker` `Client/Server Monorepo` |
-| 🎨 **Interactive UI Lab** | Micro-frontend experiments including animated OTP inputs and dynamic SMTP contact forms. | `JavaScript` `CSS3 Animations` `SMTP` |
 
 <br/>
 
